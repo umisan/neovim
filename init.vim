@@ -3,6 +3,8 @@
 " util
 set clipboard=unnamedplus 	"クリップボードの有効化
 set autowrite			"build時にオートセーブ	
+set number			"行番号を表示
+set sh=zsh			"ターミナルモードで起動するシェルをzshに変更
 
 "キーコンフィグ
 "画面分割周り
@@ -13,6 +15,8 @@ nnoremap sh <C-w>h
 nnoremap sw <C-w>w
 nnoremap sn gt
 nnoremap sp gT
+"ターミナルモードのキーコンフィグ
+tnoremap <Esc> <C-\><C-n>
 
 
 " deinの設定
