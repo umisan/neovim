@@ -5,6 +5,10 @@ set clipboard=unnamedplus 	"クリップボードの有効化
 set autowrite			"build時にオートセーブ	
 set number			"行番号を表示
 set sh=zsh			"ターミナルモードで起動するシェルをzshに変更
+set expandtab
+set tabstop=2
+set shiftwidth=2
+set autoindent
 
 "キーコンフィグ
 "画面分割周り
