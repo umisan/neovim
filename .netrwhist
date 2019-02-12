@@ -1,6 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/home/umino/go/src/github.com/umisan/hello'
 let g:netrw_dirhist_2='/home/umino/go/src/github.com/umisan'
 let g:netrw_dirhist_3='/home/umino/go/src/github.com/umisan/pomodoro'
 let g:netrw_dirhist_4='/home/umino/.vim/bundles/dein'
+let g:netrw_dirhist_5='/home/umino/go/src/github.com/umisan/taobao/service/config'
+let g:netrw_dirhist_6='/home/umino/go/src/github.com/umisan/taobao/template'
